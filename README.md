@@ -1,2 +1,2 @@
 # hello-world
-my 1st repo
+Hi, I'm MRB.
